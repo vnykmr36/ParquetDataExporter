@@ -2,3 +2,4 @@ fastparquet
 oracledb
 datetime
 pandas
+logging
