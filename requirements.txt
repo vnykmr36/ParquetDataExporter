@@ -1,0 +1,4 @@
+fastparquet
+oracledb
+datetime
+pandas
